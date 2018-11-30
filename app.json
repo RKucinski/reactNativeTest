@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "first_test",
-    "slug": "first_test",
+    "name": "first_quest_accelerometer",
+    "slug": "first_quest_accelerometer",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": [
@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "test with accelerometer",
+    "githubUrl": "https://github.com/RKucinski/reactNativeTest"
   }
 }
